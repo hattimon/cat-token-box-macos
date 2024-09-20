@@ -1,4 +1,4 @@
-# cat-token-box-macos
+CAT20Hattimon v1 Script for macOS
 # cat-token-box for macOS
 
 ## Description
